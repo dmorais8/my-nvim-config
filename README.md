@@ -13,7 +13,7 @@
 ```
 mkdir -p ~/.config/nvim
 cp init.vim ~/.config/nvim
-cp coc-setting.json ~/.config/nvim
+cp coc-settings.json ~/.config/nvim
 ```
 ### Install dependencies
 
